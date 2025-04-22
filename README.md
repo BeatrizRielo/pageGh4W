@@ -1,6 +1,7 @@
 # hello gh4w
 # Currículo
-https://github.com/BeatrizRielo/pageGh4W/blob/main/OIP%20(1).jpg
+![OIP (1)](https://github.com/user-attachments/assets/bdad41d7-e734-4690-ae79-638f7cb65f03)
+
 ## Kevin Minion
 **Desenvolvedor de Softwares de Armas Explosivas**
 
